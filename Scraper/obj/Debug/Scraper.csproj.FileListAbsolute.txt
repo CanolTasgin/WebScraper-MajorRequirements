@@ -1,0 +1,12 @@
+/Users/zeyneptasgin/Projects/Scraper/Scraper/obj/Debug/Scraper.csprojAssemblyReference.cache
+/Users/zeyneptasgin/Projects/Scraper/Scraper/obj/Debug/Scraper.csproj.CoreCompileInputs.cache
+/Users/zeyneptasgin/Projects/Scraper/Scraper/bin/Debug/Scraper.exe
+/Users/zeyneptasgin/Projects/Scraper/Scraper/bin/Debug/Scraper.pdb
+/Users/zeyneptasgin/Projects/Scraper/Scraper/obj/Debug/Scraper.exe
+/Users/zeyneptasgin/Projects/Scraper/Scraper/obj/Debug/Scraper.pdb
+/Users/canoltasgin/Desktop/Scraper/Scraper/bin/Debug/Scraper.exe
+/Users/canoltasgin/Desktop/Scraper/Scraper/bin/Debug/Scraper.pdb
+/Users/canoltasgin/Desktop/Scraper/Scraper/obj/Debug/Scraper.csprojAssemblyReference.cache
+/Users/canoltasgin/Desktop/Scraper/Scraper/obj/Debug/Scraper.csproj.CoreCompileInputs.cache
+/Users/canoltasgin/Desktop/Scraper/Scraper/obj/Debug/Scraper.exe
+/Users/canoltasgin/Desktop/Scraper/Scraper/obj/Debug/Scraper.pdb

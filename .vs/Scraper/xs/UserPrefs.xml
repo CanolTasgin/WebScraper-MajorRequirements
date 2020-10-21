@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EF63A143-7E63-4303-9164-76B1CB3C9FF9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Scraper/Program.cs">
+    <Files>
+      <File FileName="Scraper/Program.cs" Line="126" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Scraper" expanded="True">
+            <Node name="Scraper" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Scraper PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

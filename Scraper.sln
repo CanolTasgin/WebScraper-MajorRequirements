@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper", "Scraper\Scraper.csproj", "{EF63A143-7E63-4303-9164-76B1CB3C9FF9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|anycpu = Debug|anycpu
+		Release|anycpu = Release|anycpu
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF63A143-7E63-4303-9164-76B1CB3C9FF9}.Debug|anycpu.ActiveCfg = Debug|anycpu
+		{EF63A143-7E63-4303-9164-76B1CB3C9FF9}.Debug|anycpu.Build.0 = Debug|anycpu
+		{EF63A143-7E63-4303-9164-76B1CB3C9FF9}.Release|anycpu.ActiveCfg = Release|anycpu
+		{EF63A143-7E63-4303-9164-76B1CB3C9FF9}.Release|anycpu.Build.0 = Release|anycpu
+	EndGlobalSection
+EndGlobal
